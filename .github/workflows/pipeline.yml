@@ -21,8 +21,8 @@ on:
 
 permissions:
   contents: read
-
 jobs:
+
   info:
    runs-on: ubuntu-latest
    steps:
